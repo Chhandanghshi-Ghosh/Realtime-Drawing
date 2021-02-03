@@ -1,0 +1,27 @@
+#copy_right_footer{
+    line-height: 3;
+    background-color: rgb(114, 174, 226);
+    color: black;
+    bottom:0%;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    font-size: 20;
+}
+.heading{
+    width: 100%;
+    box-shadow: black;
+    margin: 0%;
+    font-size: 23px !important;
+}
+.span_note{
+    font-size:15px;
+    color: black;
+}
+canvas{
+    width: 100px;
+    height:100px;
+    box-shadow:black;
+    border:12px solid black;
+    border-radius: 12px;
+}
