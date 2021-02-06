@@ -10,7 +10,7 @@
 }
 .heading{
     width: 100%;
-    box-shadow: black;
+    box-shadow:5px 5px 18px black;
     margin: 0%;
     font-size: 23px !important;
 }
@@ -19,9 +19,8 @@
     color: black;
 }
 canvas{
-    width: 100px;
-    height:100px;
-    box-shadow:black;
+    box-shadow:5px 5px 18px black;
     border:12px solid black;
     border-radius: 12px;
+    background-color: grey;
 }
